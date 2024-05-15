@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ML\\crud-angular\\crud-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B5279C-1AD2-422D-A581-38152F12FC8A}|crud-app\\Crud-app.csproj|c:\\users\\ml\\crud-angular\\crud-app\\crud-app\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B5279C-1AD2-422D-A581-38152F12FC8A}|crud-app\\Crud-app.csproj|solutionrelative:crud-app\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B5279C-1AD2-422D-A581-38152F12FC8A}|crud-app\\Crud-app.csproj|c:\\users\\ml\\crud-angular\\crud-app\\crud-app\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B5279C-1AD2-422D-A581-38152F12FC8A}|crud-app\\Crud-app.csproj|solutionrelative:crud-app\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B5279C-1AD2-422D-A581-38152F12FC8A}|crud-app\\Crud-app.csproj|c:\\users\\ml\\crud-angular\\crud-app\\crud-app\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B5279C-1AD2-422D-A581-38152F12FC8A}|crud-app\\Crud-app.csproj|solutionrelative:crud-app\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B5279C-1AD2-422D-A581-38152F12FC8A}|crud-app\\Crud-app.csproj|c:\\users\\ml\\crud-angular\\crud-app\\crud-app\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B5279C-1AD2-422D-A581-38152F12FC8A}|crud-app\\Crud-app.csproj|solutionrelative:crud-app\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B5279C-1AD2-422D-A581-38152F12FC8A}|crud-app\\Crud-app.csproj|c:\\users\\ml\\crud-angular\\crud-app\\crud-app\\crud-app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B5B5279C-1AD2-422D-A581-38152F12FC8A}|crud-app\\Crud-app.csproj|solutionrelative:crud-app\\crud-app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B5279C-1AD2-422D-A581-38152F12FC8A}|crud-app\\Crud-app.csproj|c:\\users\\ml\\crud-angular\\crud-app\\crud-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B5279C-1AD2-422D-A581-38152F12FC8A}|crud-app\\Crud-app.csproj|solutionrelative:crud-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "crud-app\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "crud-app\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:09:29.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "crud-app.http",
+              "DocumentMoniker": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\crud-app.http",
+              "RelativeDocumentMoniker": "crud-app\\crud-app.http",
+              "ToolTip": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\crud-app.http",
+              "RelativeToolTip": "crud-app\\crud-app.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-15T08:09:24.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Program.cs",
+              "RelativeDocumentMoniker": "crud-app\\Program.cs",
+              "ToolTip": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Program.cs",
+              "RelativeToolTip": "crud-app\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:09:22.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "crud-app\\Data\\Employee.cs",
+              "ToolTip": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Data\\Employee.cs",
+              "RelativeToolTip": "crud-app\\Data\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:03:07.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "crud-app\\Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "crud-app\\Data\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:58:39.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "crud-app\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "crud-app\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:43:54.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
