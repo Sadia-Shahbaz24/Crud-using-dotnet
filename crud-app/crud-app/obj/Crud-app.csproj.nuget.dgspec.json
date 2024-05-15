@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Crud-app.csproj": {}
+    "C:\\Users\\ML\\crudoperation-angular\\crud-app\\crud-app\\Crud-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Crud-app.csproj": {
+    "C:\\Users\\ML\\crudoperation-angular\\crud-app\\crud-app\\Crud-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Crud-app.csproj",
+        "projectUniqueName": "C:\\Users\\ML\\crudoperation-angular\\crud-app\\crud-app\\Crud-app.csproj",
         "projectName": "Crud-app",
-        "projectPath": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\Crud-app.csproj",
+        "projectPath": "C:\\Users\\ML\\crudoperation-angular\\crud-app\\crud-app\\Crud-app.csproj",
         "packagesPath": "C:\\Users\\ML\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ML\\crud-angular\\crud-app\\crud-app\\obj\\",
+        "outputPath": "C:\\Users\\ML\\crudoperation-angular\\crud-app\\crud-app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ML\\AppData\\Roaming\\NuGet\\NuGet.Config",
